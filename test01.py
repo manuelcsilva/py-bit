@@ -33,3 +33,4 @@ class Ui_MainWindow(object):
         MainWindow.setWindowTitle(PySide6.QCoreApplication.translate("MainWindow", u"MainWindow", None))
         self.checkBox.setText(PySide6.QCoreApplication.translate("MainWindow", u"CheckBox", None))
     # retranslateUi
+print('Test')
