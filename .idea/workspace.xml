@@ -5,10 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="3c3e8d94-2638-4074-8e95-78100d4f6c8f" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/test02.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/UI/pybit/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/UI/pybit/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test01.py" beforeDir="false" afterPath="$PROJECT_DIR$/test01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/UI/pybit/pybit.pyproject.user" beforeDir="false" afterPath="$PROJECT_DIR$/UI/pybit/pybit.pyproject.user" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test02.py" beforeDir="false" afterPath="$PROJECT_DIR$/test02.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
